@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Akhil J
+### 🧑‍💻 Software Developer | React.js | Node.js | Python | MySQL
 
-<!--
-**akhil665/akhil665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer with hands-on experience in building web applications, integrating RESTful APIs, and working with tools like Git, Postman, and Material UI.
 
-Here are some ideas to get you started:
+### 🔨 Technologies I Work With:
+- **Frontend**: React.js, HTML5, CSS3, JavaScript, Bootstrap, Material UI
+- **Backend**: Node.js, Express.js, Python
+- **Databases**: MySQL, MariaDB
+- **Tools**: Git, GitHub, GitLab, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 💻 [Hospitals in UAE](https://hospitalsinuae.com) – React & Node.js healthcare portal
+- 🛡️ Indian Army ECHS OCR App – Automated recruitment document scanner
+
+### 📫 How to reach me:
+- 📧 Email: akhilthejusilmcm@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/akhiljay)
+
+---
+
+Thanks for visiting my profile!
