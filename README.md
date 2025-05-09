@@ -10,7 +10,7 @@
 ### 🔗 Connect with me
 - 📧 Email: akhilthejusilmcm@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/akhiljay)  
-- 🧑‍💻 [Portfolio (if any)]()  
+- 🧑‍💻 [Portfolio ]()  
 - 🔗 [Live Projects](https://hospitalsinuae.com)
 
 ---
