@@ -40,13 +40,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akhil665&show_icons=true&theme=radical" alt="Akhil GitHub stats" />
-</p>
-
----
 
 > "Code with purpose, build with passion."
 
